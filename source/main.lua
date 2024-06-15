@@ -6,5 +6,5 @@ import "CoreLibs/ui"
 import "CoreLibs/math"
 
 function playdate.update()
-
+  
 end
