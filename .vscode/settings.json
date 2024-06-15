@@ -1,0 +1,19 @@
+{
+  "Lua.runtime.nonstandardSymbol": [
+      "+=", "-=", "*=", "/=", "//=", "%=", "<<=", ">>=", "&=", "|=", "^="
+  ],
+  "Lua.diagnostics.globals": [
+      "import",
+  ],
+  "Lua.diagnostics.severity": {
+      "duplicate-set-field": "Hint"
+  },
+  "Lua.workspace.library": [
+      "C:\\Users\\Oxey4\\Documents\\Coding\\playdate-luacats",
+      "/home/alexis/Documents/Coding/playdate-luacats"
+],
+
+"Lua.diagnostics.disable": [
+    "undefined-global"
+]
+}
